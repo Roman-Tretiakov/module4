@@ -1,5 +1,5 @@
-from fake_math import divide as fake_div
-from true_math import divide as true_div
+from modules.fake_math import divide as fake_div
+from modules.true_math import divide as true_div
 import random
 
 
